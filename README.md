@@ -12,24 +12,23 @@
 A comprehensive walk-through of data science fundamentals using [PySpark](https://spark.apache.org/docs/latest/api/python/index.html), [MLflow](https://mlflow.org/), and the [Titanic dataset](https://www.kaggle.com/c/titanic/).
 
 **Author**: Max (Leiwen) Lin  
-**GitHub URL**: [https://github.com/linleiwen](https://github.com/linleiwen)
+**GitHub URL**: [https://github.com/linleiwen/titanic_dataset_databricks](https://github.com/linleiwen/titanic_dataset_databricks)
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Setup and Environment](#setup-and-environment)
-- [Data Extraction](#data-extraction)
-- [Data Cleaning](#data-cleaning)
-- [Introduction to Machine Learning](#introduction-to-machine-learning)
-- [Machine Learning Workflows](#machine-learning-workflows)
-- [Model Selection](#model-selection)
-- [Model Serving](#model-serving)
-- [Conclusion](#conclusion)
+- [Intro to Spark and Databricks]
+- [Setup and Environment]
+- [Data Extraction]
+- [Data Cleaning]
+- [Introduction to Machine Learning]
+- [Machine Learning Workflows]
+- [Model Selection]
+- [Model Serving]
 
 ## Introduction
 In this project, we will explore the basics of data science using Databricks, PySpark, and MLflow. The Titanic dataset, a classic in the data science community, will serve as our case study. This guide aims to provide a step-by-step approach to data extraction, cleaning, machine learning workflows, model selection, and model serving.
 
 ## Setup and Environment
-To get started, import the [`Databricks-DataScience-Titanic.dbc`](https://github.com/linleiwen/Databricks-DataScience-Titanic/blob/master/Databricks-DataScience-Titanic.dbc) URL into your Databricks workspace. This will set up the necessary environment for our project.
+To get started, import the [`Databricks-DataScience-Titanic.dbc`](https://github.com/linleiwen/titanic_dataset_databricks/blob/main/Databricks-DataScience-Titanic.dbc) URL into your Databricks workspace. This will set up the necessary environment for our project.
 
 ### Requirements
 - Databricks Account
